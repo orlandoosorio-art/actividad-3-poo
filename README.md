@@ -1,4 +1,4 @@
-# actividad-3-poo
+# actividad-3
 Sistema de gestion compurwork
 
 ## Descripción
